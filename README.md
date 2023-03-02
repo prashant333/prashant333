@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prashant333
-- 👀 I’m interested in IT Security domain
-- 🌱 I’m currently learning Information security
-- 💞️ I’m looking to collaborate on a CTF challange
+- 👀 I have skills in SQL, Python and Linux
+- 🌱 I’m currently working on application development for scalable use.
+- 💞️ I’m looking to collaborate in the project.
 - 📫 You can reach out to me on Discord -- voltage#7763
 
 <!---
